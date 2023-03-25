@@ -22,6 +22,12 @@ Ingeniero de Sistemas, programador, con conocimientos y experiencia en la planif
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Inkscape](https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=white)
 
+## Estadísticas
+
+![Argenisosorio GitHub stats](https://github-readme-stats.vercel.app/api?username=argenisosorio&show_icons=true&theme=city_lights)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=argenisosorio&layout=compact&show_icons=true&theme=city_lights)](https://github.com/argenisosorio/github-readme-stats)
+
 ## Trabajos
 
 ![Portafolio digital](https://argenisosorio.github.io/portafolio/index.html)
