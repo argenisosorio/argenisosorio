@@ -30,7 +30,7 @@ Ingeniero de Sistemas, programador, con conocimientos y experiencia en la planif
 
 ## Trabajos
 
-Portafolio digital: https://argenisosorio.github.io/portafolio/index.html
+Portafolio digital: https://argenisosorio.github.io/portafolio
 
 ## Contactos
 
