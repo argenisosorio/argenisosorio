@@ -32,6 +32,17 @@ Ingeniero de Sistemas, programador, con conocimientos y experiencia en la planif
 
 Portafolio digital: https://argenisosorio.github.io/portafolio
 
+## Contribuciones en GitHib
+
+<div align="center">
+  <a href="https://commit-history.com/argenisosorio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/argenisosorio?theme=dark" />
+      <img alt="argenisosorio's commit history" src="https://commit-history.com/embed/argenisosorio" />
+    </picture>
+  </a>
+</div>
+
 ## Contactos
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/argenisosorio/)
